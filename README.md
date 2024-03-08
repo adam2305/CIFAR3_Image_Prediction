@@ -1,1 +1,1 @@
-# CIFAR3_Image_Prediction
+Image Prediction
